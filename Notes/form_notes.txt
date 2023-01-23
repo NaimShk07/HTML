@@ -1,0 +1,24 @@
+1)If you are making form, it's neccessary to use <form> tags
+otherwise it will not submit.
+
+2)Method attribute of form = method: get(default)/post
+=>get is not secure / post is secure.
+=>get has limit of char only 100char / post has unlimited.
+=>so use only post.
+
+3)Action attribute of form = it will redirect to that path(website)
+
+4)Target attribute of form = it will allow to open page in another tab
+or same tab,with target=_blank,_self.
+
+5)Input types radio,checkbox,email,password,number,date,time,
+text,color,month,number,week,country,<textarea>,image,submit,
+reset,button.
+
+6)Dropbox = use select tag with inside option tags.
+
+7)When we use <input> tag we should always use name attributes 
+=>It will help backend developer to know what type of value they
+are getting is it firstname,lastname or email etc.
+
+8)In some tags

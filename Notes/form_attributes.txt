@@ -1,0 +1,26 @@
+action:www.google.com
+method:get/post
+target:_self/_blank
+
+type:email,text,number,password,etc.
+name:xyz
+value:xyz(text,name / radio,checkbox,select)
+placeholder:Enter Your Name
+size:"30"(input size)
+cols/rows:"5"(textarea)
+min/max:"5"(number,date)
+
+readonly
+disabled
+checked
+multiple(file)
+
+required
+minlength(password)
+maxlength(password)
+
+pattern="[a-zA-Z]+"
+pattern="[a-zA-Z]{3,8}"
+pattern="[0-9]{10,11}"
+
+title(show short description when hover)

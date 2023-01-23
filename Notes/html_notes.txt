@@ -1,0 +1,20 @@
+1)What is website  and www?
+=>Website - Everyday you visit on internet
+Folow some rules & regulation i.e client-server archietecture standard
+Website - providing information from anywhere in world
+www - world wide web called internet
+
+2) What is client and server archietecture?
+=> client - Request
+server - Response
+
+laptop,mobile,pc ==>Internet<== server
+
+3)What is web browser?
+=>Google chorme,firefox,safari,mozilla,opera
+
+4)What is webpage?
+=>Webpage is document which browser show us,website contain many pages and information.
+
+5)What is homepage?
+=>First page of website,when we open any kind of website that show the first page and it contain all web pages links and also show the primary contain in a pages.
